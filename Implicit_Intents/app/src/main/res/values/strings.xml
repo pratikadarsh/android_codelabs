@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit_Intents</string>
+    <string name="edittext_uri">www.google.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Qutub Minar</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Hello how are you doing ?</string>
+    <string name="button_share">Share Text</string>
+</resources>
